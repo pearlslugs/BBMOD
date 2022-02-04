@@ -1,0 +1,8 @@
+gunsmith
+musket
+bayonet
+blunderbuss
+grenade
+rocket
+cannon
+alchemist
