@@ -1,0 +1,166 @@
+[
+	{
+		"i" : 
+		[
+			0,
+			80,
+			100,
+			0,
+			0,
+			-1,
+			-1
+		],
+		"k" : "autochop/config",
+		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/global",
+		"s" : "bars=0|blocks=1|boulders=1|logs=1|"
+	},
+	{
+		"i" : 
+		[
+			0,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "autogems/config",
+		"s" : ""
+	},
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	{
+		"i" : 
+		[
+			98,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/constraints2",
+		"s" : "//0/5/0"
+	},
+	null,
+	{
+		"i" : 
+		[
+			100,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/constraints2",
+		"s" : "//0/5/0"
+	},
+	null,
+	{
+		"i" : 
+		[
+			102,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/constraints2",
+		"s" : "//0/5/0"
+	},
+	{
+		"i" : 
+		[
+			103,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/constraints2",
+		"s" : "//0/5/0"
+	},
+	{
+		"i" : 
+		[
+			104,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/constraints2",
+		"s" : "//0/5/0"
+	},
+	{
+		"i" : 
+		[
+			105,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/constraints2",
+		"s" : "//0/5/0"
+	},
+	{
+		"i" : 
+		[
+			106,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/constraints2",
+		"s" : "//0/5/0"
+	},
+	{
+		"i" : 
+		[
+			107,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/constraints2",
+		"s" : "//0/5/0"
+	}
+]
